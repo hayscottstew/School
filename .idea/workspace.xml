@@ -5,17 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8c384c4-9565-418e-9c3c-80f22ac668bb" name="Changes" comment="notes &amp; lab code as of 10/27/2022">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A5231HStewart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlphabeticalArraySorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSortLab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CIS231A3HSte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CIS231A4HSte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoinChangeCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvenArrayListCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GetDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L1_232HSte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L2_232HSte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isDivisible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testingTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AcronymGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AcronymGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH8Examples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH8Examples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,22 +53,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/hayden/IdeaProjects/School/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hayden/IdeaProjects/School/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Assignment4">
+    <configuration name="Assignment4" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-19.0.1/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Assignment4" />
+      <module name="School" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CH8Examples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CH8Examples" />
+      <module name="School" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CH8Examples" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -63,7 +109,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666900252636</updated>
-      <workItem from="1666900253837" duration="436000" />
+      <workItem from="1666900253837" duration="734000" />
+      <workItem from="1666928183847" duration="3925000" />
+      <workItem from="1667289331185" duration="17452000" />
+      <workItem from="1667423944038" duration="15653000" />
+      <workItem from="1667451421893" duration="1748000" />
+      <workItem from="1668745035900" duration="4070000" />
+      <workItem from="1668796384010" duration="792000" />
+      <workItem from="1668798454726" duration="2104000" />
+      <workItem from="1669750088529" duration="30666000" />
+      <workItem from="1671073016197" duration="7323000" />
+      <workItem from="1675029182108" duration="764000" />
     </task>
     <task id="LOCAL-00001" summary="notes &amp; lab code as of 10/27/2022">
       <created>1666900446826</created>
@@ -72,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666900446826</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="notes &amp; lab code as of 10/27/2022">
+      <created>1666900898750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666900898750</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +153,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="notes &amp; lab code as of 10/27/2022" />
     <option name="LAST_COMMIT_MESSAGE" value="notes &amp; lab code as of 10/27/2022" />
   </component>

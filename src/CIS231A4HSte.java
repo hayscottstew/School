@@ -6,9 +6,8 @@
  */
 
 import java.util.Scanner;
-import java.lang.Math;
 
-public class Assignment4
+public class CIS231A4HSte
 {
     //*** SORT & CALCULATION METHODS ***
     public static double findStandardDeviation (double[] n)
